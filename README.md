@@ -1,4 +1,6 @@
 # big-ideas-git-exercise
+
+## Description
 A jupyter notebook containing a program that takes a name input, another input, then does reverses the second input after greeting the user.
 
 ## Installation
